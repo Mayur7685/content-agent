@@ -1,5 +1,7 @@
 # Viral Crypto Content Idea Generator & Targeted Intelligence Pipeline
 
+DEMO VIDEO: https://youtu.be/go8iOTRGvEg
+
 An AI-powered content automation pipeline that collects high-engagement crypto content, extracts viral hook patterns, and generates production-ready, platform-specific content scripts using a **local LLM** (LM Studio or Ollama). It runs fully offline with zero API cost.
 
 This repository has been upgraded into a **Targeted Intelligence Pipeline** incorporating multi-agent collaboration, historical archiving, and automated sync options for publishing.

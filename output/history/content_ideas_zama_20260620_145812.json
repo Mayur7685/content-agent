@@ -1,0 +1,144 @@
+{
+  "youtube_shorts": [
+    {
+      "title": "The $12M DeFi Shield",
+      "topic": "ethereum",
+      "angle": "Highlighting the scale of Zama's confidential yield vault with Morpho.",
+      "loop_hook_strategy": "The transition from the final call to action leads directly back into the mention of the high-value contract.",
+      "scene_by_scene_script": [
+        {
+          "scene_number": 1,
+          "visual": "Large text: $12.6M",
+          "on_screen_text": "$12.6M at Stake",
+          "voiceover": "A massive $12.6 million move is shaking up DeFi."
+        },
+        {
+          "scene_number": 2,
+          "visual": "Zama and Morpho logos side-by-side",
+          "on_screen_text": "Confidential Yield",
+          "voiceover": "Zama and Morpho just launched a confidential yield vault."
+        },
+        {
+          "scene_number": 3,
+          "visual": "Zama logo with 'Join Now' button",
+          "on_screen_text": "Follow Zama",
+          "voiceover": "See how Zama is scaling private infrastructure for everyone."
+        }
+      ],
+      "based_on_pattern": "big_number"
+    },
+    {
+      "title": "Is Your DeFi Secret Safe?",
+      "topic": "stablecoin",
+      "angle": "Warning about standard DeFi exposure and Zama's FHE solution.",
+      "loop_hook_strategy": "The final question about safety loops back to the initial warning of public data leaks.",
+      "scene_by_scene_script": [
+        {
+          "scene_number": 1,
+          "visual": "Red alert icon over a wallet",
+          "on_screen_text": "SECURITY WARNING",
+          "voiceover": "Is your private data actually safe on public chains?"
+        },
+        {
+          "scene_number": 2,
+          "visual": "Shield animation over an Ethereum logo",
+          "on_screen_text": "FHE Technology",
+          "voiceover": "Zama uses FHE to provide institutional-grade privacy for transactions."
+        },
+        {
+          "scene_number": 3,
+          "visual": "Zama logo with 'Learn More' text",
+          "on_screen_text": "Join the Privacy Revolution",
+          "voiceover": "Protect your assets with Zama\u2019s confidential infrastructure."
+        }
+      ],
+      "based_on_pattern": "security_warning"
+    },
+    {
+      "title": "The Future of Institutional DeFi",
+      "topic": "web3",
+      "angle": "Bold prediction on Zama's role in attracting large-scale capital.",
+      "loop_hook_strategy": "The final promise of the future connects to the 'New Era' hook at the start.",
+      "scene_by_scene_script": [
+        {
+          "scene_number": 1,
+          "visual": "Futuristic digital vault opening",
+          "on_screen_text": "A New Era",
+          "voiceover": "The era of public DeFi exposure is ending."
+        },
+        {
+          "scene_number": 2,
+          "visual": "Graph showing capital inflow to Zama",
+          "on_screen_text": "Institutional Scale",
+          "voiceover": "Zama is building the infrastructure to attract massive institutional capital."
+        },
+        {
+          "scene_number": 3,
+          "visual": "Zama roadmap animation",
+          "on_screen_text": "Watch the Roadmap",
+          "voiceover": "Don't miss Zama\u2019s evolution in confidential DeFi."
+        }
+      ],
+      "based_on_pattern": "bold_prediction"
+    }
+  ],
+  "twitter_threads": [
+    {
+      "thread_hook": "The era of 'public' DeFi is hitting a wall. The next evolution of Ethereum is Confidential DeFi. $ZAMA is leading the charge with FHE technology.",
+      "topic": "Ethereum",
+      "angle_thesis": "Zama is revolutionizing DeFi by integrating Fully Homomorphic Encryption (FHE) to provide institutional-grade privacy on Ethereum.",
+      "tweets": [
+        "The era of 'public' DeFi is hitting a wall. The next evolution of Ethereum is Confidential DeFi. $ZAMA is leading the charge with FHE technology. \ud83e\uddf5",
+        "Traditional DeFi exposes everything. Zama\u2019s partnership with Morpho and Steakhouse Financial introduces the first confidential DeFi yield vault on Ethereum.",
+        "How? Through Fully Homomorphic Encryption (FHE). It allows for computation on encrypted data, ensuring privacy without compromising functionality.",
+        "This isn't just a feature; it's infrastructure. Zama provides the privacy layer needed to bring massive institutional capital into the ecosystem.",
+        "The shift from public to confidential is inevitable. Follow $ZAMA to see how FHE is redefining Ethereum's potential for everyone."
+      ],
+      "visual_asset_prompts": [
+        "3D abstract shield over Ethereum logo",
+        "Infographic: Public vs Confidential DeFi",
+        "Zama and Morpho partnership branding",
+        "Future-tech vault glowing gold"
+      ],
+      "based_on_pattern": "bold_prediction"
+    },
+    {
+      "thread_hook": "\ud83d\udea8 A $12.6M USDC freeze just exposed a massive flaw in standard DeFi privacy. It's time for a solution that satisfies regulators and protects users.",
+      "topic": "stablecoin",
+      "angle_thesis": "Using the recent USDC friction as a case study, Zama\u2019s FHE provides the necessary 'shield' for institutional-grade compliance.",
+      "tweets": [
+        "\ud83d\udea8 A $12.6M USDC freeze just exposed a massive flaw in standard DeFi privacy. It's time for a solution that satisfies regulators and protects users.",
+        "Recent regulatory friction regarding stablecoins highlights the need for 'Confidential Yield.' Standard transparency is often a liability for big players.",
+        "Zama solves this by utilizing Fully Homomorphic Encryption (FHE). It allows transactions to be processed privately, meeting strict compliance needs.",
+        "By partnering with Morpho, Zama is building the first infrastructure that lets institutions interact with Ethereum without exposing sensitive data.",
+        "Don't let your assets be caught in the crossfire of transparency issues. $ZAMA is building the fortress for the next generation of stablecoins."
+      ],
+      "visual_asset_prompts": [
+        "Warning sign over a digital vault",
+        "Locked padlock icon on USDC logo",
+        "Shield protecting institutional data flow",
+        "Safe room aesthetic with Zama branding"
+      ],
+      "based_on_pattern": "security_warning"
+    },
+    {
+      "thread_hook": "Billions in institutional capital are waiting for a 'safe' entry into DeFi. $ZAMA is building the bridge they can actually cross.",
+      "topic": "defi",
+      "angle_thesis": "Zama's roadmap focuses on scaling confidential infrastructure to capture large-scale institutional capital currently sidelined by privacy risks.",
+      "tweets": [
+        "Billions in institutional capital are waiting for a 'safe' entry into DeFi. $ZAMA is building the bridge they can actually cross.",
+        "Why hasn't big money moved fully into DeFi? Because public ledgers aren't private enough for corporate secrets. They need FHE technology.",
+        "Zama is actively scaling confidential DeFi infrastructure to attract this massive, untapped capital pool onto Ethereum and beyond.",
+        "By creating 'Confidential Yield' products with Morpho, Zama removes the barriers of fear and non-compliance from institutional investors.",
+        "The roadmap is clear: Scale. Protect. Integrate. Join the $ZAMA movement as we build the infrastructure for the next trillion dollars."
+      ],
+      "visual_asset_prompts": [
+        "Golden bridge connecting two cities",
+        "Growth chart showing institutional adoption",
+        "Large vault door opening to Ethereum",
+        "Professional corporate tech aesthetic"
+      ],
+      "based_on_pattern": "big_number"
+    }
+  ]
+}
