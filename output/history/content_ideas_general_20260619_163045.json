@@ -1,0 +1,129 @@
+{
+  "youtube_videos": [
+    {
+      "title_suggestions": [
+        "I Lost $80k on a Rug Pull: 5 Red Flags You're Ignoring",
+        "How to Spot a Scam Before It Steals Your Crypto",
+        "The Truth About Rug Pulls (My $80,000 Mistake)"
+      ],
+      "thumbnail_concept": "Distressed face, red 'SCAMMED' stamp over a falling chart.",
+      "hook_script": "I watched eighty thousand dollars vanish in under 48 hours. I ignored five specific red flags. Today, I'm showing you exactly how to spot them before they take your money.",
+      "topic": "rug_pull",
+      "angle_thesis": "Educate viewers on identifying scam tokens by analyzing liquidity locks and developer transparency.",
+      "chapters": [
+        {
+          "timestamp_marker": "0:00 - 2:30",
+          "chapter_title": "The $80k Nightmare",
+          "core_points": [
+            "The emotional toll of a rug pull",
+            "How the scam started"
+          ],
+          "b_roll_and_visuals": "Slow zoom on 'Rug Pull' headlines."
+        },
+        {
+          "timestamp_marker": "2:30 - 10:00",
+          "chapter_title": "The 5 Red Flags",
+          "core_points": [
+            "Unrealistic APY claims",
+            "Lack of locked liquidity",
+            "Anonymous team with no track record"
+          ],
+          "b_roll_and_visuals": "Screen recording of a shady DexScreener chart."
+        },
+        {
+          "timestamp_marker": "10:00 - 12:00",
+          "chapter_title": "How to Stay Safe",
+          "core_points": [
+            "Using audit tools",
+            "Community verification steps"
+          ],
+          "b_roll_and_s_visuals": "Checklist overlay on screen."
+        }
+      ],
+      "based_on_pattern": "loss_lessons"
+    },
+    {
+      "title_suggestions": [
+        "Why 90% of Layer 2s Will Be Dead by 2027",
+        "The L2 Collapse: What Every Investor Needs to Know",
+        "Is Your L2 Investment About to Go to Zero?"
+      ],
+      "thumbnail_concept": "Comparison chart showing many L2 logos fading away.",
+      "hook_script": "Most people think Layer 2 is the future, but I believe 90% of these projects will be dead by 2027. Here is the brutal reality of the L2 consolidation coming our way.",
+      "topic": "layer2",
+      "angle_thesis": "Analyze market saturation and capital inefficiency leading to a 'survival of the fittest' phase for Layer 2 networks.",
+      "chapters": [
+        {
+          "timestamp_marker": "0:00 - 3:00",
+          "chapter_title": "The L2 Expansion Bubble",
+          "core_points": [
+            "Rapid growth of L2 chains",
+            "Capital fragmentation across networks"
+          ],
+          "b_roll_and_visuals": "Fast-paced montage of various L2 logos."
+        },
+        {
+          "timestamp_marker": "3:00 - 12:00",
+          "chapter_title": "The Consolidation Thesis",
+          "core_points": [
+            "User acquisition costs vs retention",
+            "Ecosystem competition analysis"
+          ],
+          "b_roll_and_visuals": "Infographic showing overlapping L2 features."
+        },
+        {
+          "timestamp_marker": "12:00 - 15:00",
+          "chapter_title": "The Winners of 2027",
+          "core_points": [
+            "Identifying the top 3 survivors",
+            "Portfolio diversification strategy"
+          ],
+          "b_roll_and_visuals": "Highlighting specific logos in green."
+        }
+      ],
+      "based_on_pattern": "cautionary_tale"
+    },
+    {
+      "title_suggestions": [
+        "How I Turned $500 into $40,000 (The Memecoin Blueprint)",
+        "My 3-Week Memecoin Strategy Revealed",
+        "From $500 to $40k: The Exact Path I Took"
+      ],
+      "thumbnail_concept": "Green moon arrow with '500 -> 40,000' in bold text.",
+      "hook_script": "I turned five hundred dollars into forty thousand in just three weeks. It wasn't luck; it was a specific memecoin strategy that I'm breaking down for you right now.",
+      "topic": "memecoin",
+      "angle_thesis": "Provide a step-by-step roadmap for identifying high-potential memecoins using social sentiment and volume metrics.",
+      "chapters": [
+        {
+          "timestamp_marker": "0:00 - 2:00",
+          "chapter_title": "The $500 Start",
+          "core_points": [
+            "Initial capital selection",
+            "Risk management basics"
+          ],
+          "b_roll_and_visuals": "Overlay of a small wallet balance."
+        },
+        {
+          "timestamp_marker": "2:00 - 11:00",
+          "chapter_title": "The Memecoin Formula",
+          "core_points": [
+            "Analyzing Twitter/X sentiment",
+            "Tracking whale wallet movements",
+            "Identifying 'cult' communities"
+          ],
+          "b_roll_and_visuals": "Screen recording of Twitter search filters."
+        },
+        {
+          "timestamp_marker": "11:00 - 13:00",
+          "chapter_title": "Executing the Exit",
+          "core_points": [
+            "Taking profits at milestones",
+            "Moving gains to stablecoins"
+          ],
+          "b_roll_and_visuals": "Profit taking graph visualization."
+        }
+      ],
+      "based_on_pattern": "multiplier_claim"
+    }
+  ]
+}

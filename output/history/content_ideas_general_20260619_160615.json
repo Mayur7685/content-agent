@@ -1,0 +1,85 @@
+{
+  "youtube_shorts": [
+    {
+      "title": "The $1 Trillion Bitcoin Goal",
+      "topic": "bitcoin",
+      "angle": "big_number",
+      "loop_hook_strategy": "Seamless transition from final 'watch' to initial 'Bitcoin' prompt.",
+      "scene_by_scene_script": [
+        {
+          "scene_number": 1,
+          "visual": "Rapidly climbing Bitcoin price chart.",
+          "on_screen_text": "$1 Trillion is Coming.",
+          "voiceover": "Bitcoin is racing toward a massive trillion-dollar market cap."
+        },
+        {
+          "scene_number": 2,
+          "visual": "Institutional investor logos appearing.",
+          "on_screen_text": "Whales are Accumulating.",
+          "voiceover": "Institutional demand is creating a supply shock like never before."
+        },
+        {
+          "scene_number": 3,
+          "visual": "Subscribe button animation.",
+          "on_screen_text": "Follow for Alpha.",
+          "voiceover": "Follow to stay ahead of the next big move."
+        }
+      ],
+      "based_on_pattern": "big_number"
+    },
+    {
+      "title": "The SEC's Hidden Trap",
+      "topic": "sec",
+      "angle": "security_warning",
+      "loop_hook_strategy": "Looping the warning siren visual with 'Your assets are at risk.'",
+      "scene_by_scene_script": [
+        {
+          "scene_number": 1,
+          "visual": "Warning sign over crypto coins.",
+          "on_screen_text": "SEC Warning!",
+          "voiceover": "The SEC\u2019s latest move could freeze your crypto assets."
+        },
+        {
+          "scene_number": 2,
+          "visual": "Legal documents and gavel.",
+          "on_screen_text": "Compliance is Mandatory.",
+          "voiceover": "Only compliant tokens will survive the upcoming regulatory crackdown."
+        },
+        {
+          "scene_number": 3,
+          "visual": "Link in bio graphic.",
+          "on_screen_text": "Stay Informed.",
+          "voiceover": "Click my link to see which coins are safe."
+        }
+      ],
+      "based_on_pattern": "security_warning"
+    },
+    {
+      "title": "AI x Ethereum Explosion",
+      "topic": "ethereum, ai_crypto",
+      "angle": "ai_crypto",
+      "loop_hook_strategy": "Ending with 'This is why' to loop into the start.",
+      "scene_by_scene_script": [
+        {
+          "scene_number": 1,
+          "visual": "Robot arm holding Ethereum logo.",
+          "on_screen_text": "AI + ETH = Moon",
+          "voiceover": "The fusion of AI and Ethereum is creating a gold rush."
+        },
+        {
+          "scene_number": 2,
+          "visual": "Neural network overlay on blockchain.",
+          "on_screen_text": "Decentralized Intelligence.",
+          "voiceover": "Smart contracts are powering the next generation of AI agents."
+        },
+        {
+          "scene_number": 3,
+          "visual": "Upward rocket emoji.",
+          "on_screen_text": "Join the Revolution.",
+          "voiceover": "Subscribe to catch every AI-crypto project update."
+        }
+      ],
+      "based_on_pattern": "ai_crypto"
+    }
+  ]
+}

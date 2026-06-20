@@ -1,0 +1,58 @@
+{
+  "twitter_threads": [
+    {
+      "thread_hook": "I turned $500 into $40,000 on Solana in 3 weeks. Here is the exact memecoin strategy I used to navigate high-velocity liquidity.",
+      "topic": "Solana Memecoins",
+      "angle_thesis": "Utilizing Solana's low latency and high throughput to capture rapid moves in the memecoin sector while managing risk.",
+      "tweets": [
+        "The 'Solana Summer' isn't just hype. It's driven by massive retail engagement and high-velocity liquidity that other chains can't match.",
+        "Why Solana? Because when speed is everything, transaction costs must be negligible for the millions of traders entering the memecoin space.",
+        "My strategy: Identify trending narratives early, use automated tools to monitor liquidity pools, and jump on high-volume pairs instantly.",
+        "I ignored the 'casino' labels. I saw a superior infrastructure that allows retail users to act faster than they ever could on Ethereum.",
+        "If you aren't tracking Solana's memecoin volume, you are missing the fastest part of the ecosystem. Start watching the charts today."
+      ],
+      "visual_asset_prompts": [
+        "Neon green Solana logo with rising chart",
+        "Fast-moving ticker tape displaying memecoins",
+        "Smartphone screen showing rapid trade executions"
+      ],
+      "based_on_pattern": "multiplier_claim"
+    },
+    {
+      "thread_hook": "Unpopular opinion: 90% of L2s will be dead by 2027. They are struggling to solve the fragmentation that Solana already solved.",
+      "topic": "Solana vs Layer 2",
+      "angle_thesis": "Comparing Solana's monolithic scalability against the fragmented nature and complexity of various L2 solutions.",
+      "tweets": [
+        "The industry is obsessed with L2s, but fragmentation is a silent killer. Users want simplicity, not jumping between bridges every five minutes.",
+        "Solana provides a unified liquidity layer. One network, one state, and massive throughput for high-frequency applications.",
+        "While L2s struggle with complex cross-chain communication, Solana offers seamless UX that keeps retail users within the ecosystem.",
+        "Speed is no longer optional. For mass adoption, we need the 'one-click' experience that only a high-throughput monolithic chain provides.",
+        "The choice for 2025 and beyond is clear: Scalability without fragmentation. That is why Solana remains the primary hub for active traders."
+      ],
+      "visual_asset_prompts": [
+        "Comparison chart of L2 vs Solana speed",
+        "A maze representing fragmented L2 networks",
+        "Solana logo as a solid central pillar"
+      ],
+      "based_on_pattern": "layer2"
+    },
+    {
+      "thread_hook": "The $100B Warning: Why institutional giants are betting on Solana for the 2026 cycle despite its 'casino' reputation.",
+      "topic": "Solana Institutional Growth",
+      "angle_thesis": "Analyzing the shift from speculative retail volume to institutional infrastructure and long-term roadmap positioning.",
+      "tweets": [
+        "Critics call it a casino. The institutions see it as an unparalleled high-throughput highway for decentralized finance (DeFi).",
+        "The 2026 cycle is about institutional adoption. Solana's ability to handle massive volume makes it a prime target for big money.",
+        "We are moving past the 'meme' phase. We are entering the infrastructure era where reliability and throughput are the only metrics that matter.",
+        "While others worry about regulatory scrutiny of retail activity, the smart money is building on Solana\u2019s scalable architecture.",
+        "The roadmap to 2026 is clear: Transition from high-velocity retail tools to institutional-grade financial primitives. The transition has begun."
+      ],
+      "visual_asset_prompts": [
+        "Corporate boardroom with Solana logo display",
+        "Golden coins falling onto a Solana logo",
+        "Roadmap graphic showing 2024 to 2026 growth"
+      ],
+      "based_on_pattern": "security_warning"
+    }
+  ]
+}

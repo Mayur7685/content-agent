@@ -1,0 +1,88 @@
+{
+  "tiktok_videos": [
+    {
+      "title": "Memecoin Moonshot Strategy",
+      "hook": "I turned $500 into $40,000 in 3 weeks.",
+      "topic": "memecoin",
+      "angle": "personal_narrative",
+      "sound_and_music_prompt": "Fast-paced, high-energy phonk music with a heavy bass drop.",
+      "scene_by_scene_script": [
+        {
+          "scene_number": 1,
+          "visual": "Person looking shocked at phone showing gains.",
+          "on_screen_text": "$500 -> $40,000",
+          "voiceover": "I turned five hundred dollars into forty thousand in three weeks."
+        },
+        {
+          "scene_number": 2,
+          "visual": "Screen recording of a trending memecoin chart.",
+          "on_screen_text": "The exact strategy used.",
+          "voiceover": "Here is the specific memecoin rotation strategy I used to scale."
+        },
+        {
+          "scene_number": 3,
+          "visual": "Hand pointing toward link in bio.",
+          "on_screen_text": "Get the roadmap now.",
+          "voiceover": "Check my bio for the full step-by-step strategy guide."
+        }
+      ],
+      "based_on_pattern": "personal_money_story"
+    },
+    {
+      "title": "Rug Pull Survival Guide",
+      "hook": "I lost $80k on a rug pull. Don't do this.",
+      "topic": "rug_pull",
+      "angle": "cautionary_tale",
+      "sound_and_music_prompt": "Tense, cinematic atmospheric synth music.",
+      "scene_by_scene_script": [
+        {
+          "scene_number": 1,
+          "visual": "Close up of face with serious expression.",
+          "on_screen_text": "How I lost $80,000",
+          "voiceover": "I lost eighty thousand dollars on a rug pull. Don't repeat my mistakes."
+        },
+        {
+          "scene_number": 2,
+          "visual": "List of red flags appearing one by one.",
+          "on_screen_text": "3 Red Flags",
+          "voiceover": "Here are three critical red flags I ignored before the scam happened."
+        },
+        {
+          "scene_number": 3,
+          "visual": "Follow button animation on screen.",
+          "on_screen_text": "Follow for safety tips.",
+          "voiceover": "Follow me to learn how to spot these scams early."
+        }
+      ],
+      "based_on_pattern": "security_warning"
+    },
+    {
+      "title": "The Bitcoin ETF Multiplier",
+      "hook": "The 10x opportunity hidden in the ETFs.",
+      "topic": "etf",
+      "angle": "deep_dive_thread",
+      "sound_and_music_prompt": "Upbeat, professional corporate tech music.",
+      "scene_by_scene_script": [
+        {
+          "scene_number": 1,
+          "visual": "Graphic showing Bitcoin price climbing.",
+          "on_screen_text": "The ETF Explosion",
+          "voiceover": "The new ETFs are creating a massive multiplier for Bitcoin holders."
+        },
+        {
+          "scene_number": 2,
+          "visual": "News headline clips about institutional buying.",
+          "on_screen_text": "Institutional Demand",
+          "voiceover": "Massive institutional inflows are shrinking the available supply on global exchanges."
+        },
+        {
+          "scene_number": 3,
+          "visual": "Call to action graphic with 'Comment BTC'.",
+          "on_screen_text": "Comment 'BTC' below.",
+          "voiceover": "Comment BTC and I will send you my private watchlist."
+        }
+      ],
+      "based_on_pattern": "multiplier_claim"
+    }
+  ]
+}

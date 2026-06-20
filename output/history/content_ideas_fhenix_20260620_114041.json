@@ -1,0 +1,85 @@
+{
+  "youtube_shorts": [
+    {
+      "title": "$15M for Fhenix Layer 2",
+      "topic": "layer2",
+      "angle": "big_number",
+      "loop_hook_strategy": "The secret to on-chain privacy is...",
+      "scene_by_scene_script": [
+        {
+          "scene_number": 1,
+          "visual": "Text: $15 Million Secured. Glowing Fhenix logo.",
+          "on_screen_text": "$15M SECURED",
+          "voiceover": "Fhenix just secured $15 million to build a private Layer 2."
+        },
+        {
+          "scene_number": 2,
+          "visual": "Graphic showing Decomposable BFV vs ZK.",
+          "on_screen_text": "DECOMPOSABLE BFV",
+          "voiceover": "They are using advanced FHE for real on-chain confidentiality."
+        },
+        {
+          "scene_number": 3,
+          "visual": "Fhenix logo with 'Join the Movement' text.",
+          "on_screen_text": "JOIN THE MOVEMENT",
+          "voiceover": "Follow to see how Fhenix changes Ethereum\u2019s landscape."
+        }
+      ],
+      "based_on_pattern": "big_number"
+    },
+    {
+      "title": "The DeFi Privacy Gap",
+      "topic": "ethereum",
+      "angle": "defi",
+      "loop_hook_strategy": "Forget everything you knew about...",
+      "scene_by_scene_script": [
+        {
+          "scene_number": 1,
+          "visual": "Text: FHE > ZK Rollups? Split screen.",
+          "on_screen_text": "FHE vs ZK",
+          "voiceover": "Is Fhenix the missing piece for confidential DeFi infrastructure?"
+        },
+        {
+          "scene_number": 2,
+          "visual": "Animation of a secret transaction path.",
+          "on_screen_text": "DARK POOL ACTIVE",
+          "voiceover": "They launched a functional dark pool to hide your trades."
+        },
+        {
+          "scene_number": 3,
+          "visual": "Fhenix roadmap graphic scrolling fast.",
+          "on_screen_text": "FOLLOW FOR UPDATES",
+          "voiceover": "Follow now to track Fhenix\u2019s massive growth."
+        }
+      ],
+      "based_on_pattern": "defi"
+    },
+    {
+      "title": "The Next Big L2 Play",
+      "topic": "altcoin",
+      "angle": "big_number",
+      "loop_hook_strategy": "The biggest stealth play in...",
+      "scene_by_scene_script": [
+        {
+          "scene_number": 1,
+          "visual": "Text: $15M Series A. Bold colors.",
+          "on_screen_text": "$15M SERIES A",
+          "voiceover": "Fhenix is disrupting the L2 space with massive backing."
+        },
+        {
+          "scene_number": 2,
+          "visual": "Text: Solving FHE Scalability. Graph rising.",
+          "on_screen_text": "SCALING FHE",
+          "voiceover": "They are tackling the high costs of FHE primitives."
+        },
+        {
+          "scene_number": 3,
+          "visual": "Fhenix logo with 'Join the Alpha' text.",
+          "on_screen_text": "JOIN THE ALPHA",
+          "voiceover": "Watch Fhenix redefine on-chain privacy right now."
+        }
+      ],
+      "based_on_pattern": "big_number"
+    }
+  ]
+}

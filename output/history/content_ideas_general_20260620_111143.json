@@ -1,0 +1,85 @@
+{
+  "youtube_shorts": [
+    {
+      "title": "How to Spot a Rug Pull",
+      "topic": "rug_pull",
+      "angle": "security_warning",
+      "loop_hook_strategy": "Seamless loop: End with 'before you' leading into the start.",
+      "scene_by_scene_script": [
+        {
+          "scene_number": 1,
+          "visual": "Red flashing warning light over a falling chart.",
+          "on_screen_text": "STOP! Rug Pull Alert",
+          "voiceover": "Stop getting wrecked by rug pulls before you buy."
+        },
+        {
+          "scene_number": 2,
+          "visual": "Screen recording of a smart contract audit tool.",
+          "on_screen_text": "Check Liquidity Locks",
+          "voiceover": "Always verify if the liquidity is locked by a reputable locker."
+        },
+        {
+          "scene_number": 3,
+          "visual": "Point to link in bio animation.",
+          "on_screen_text": "Stay Safe!",
+          "voiceover": "Follow for more ways to keep your bags safe."
+        }
+      ],
+      "based_on_pattern": "security_warning"
+    },
+    {
+      "title": "The $500 to $40k Strategy",
+      "topic": "memecoin",
+      "angle": "multiplier_claim",
+      "loop_hook_strategy": "Connect 'the secret is' at end to 'how I did it' at start.",
+      "scene_by_scene_script": [
+        {
+          "scene_number": 1,
+          "visual": "Fast-paced montage of green candles and memes.",
+          "on_screen_text": "$500 -> $40,000",
+          "voiceover": "I turned five hundred into forty thousand using this memecoin strategy."
+        },
+        {
+          "scene_number": 2,
+          "visual": "Scrolling through DexScreener with high volume.",
+          "on_screen_text": "Find the Hype",
+          "voiceover": "Target low-cap coins with explosive community growth and social sentiment."
+        },
+        {
+          "scene_number": 3,
+          "visual": "Arrow pointing to the description box.",
+          "on_screen_text": "Get My Checklist",
+          "voiceover": "Grab my free memecoin checklist in the bio now."
+        }
+      ],
+      "based_on_pattern": "multiplier_claim"
+    },
+    {
+      "title": "The ETF Reality Check",
+      "topic": "etf",
+      "angle": "loss_lessons",
+      "loop_hook_strategy": "Loop by phrasing the end to flow into 'Why Bitcoin...' at start.",
+      "scene_by_scene_script": [
+        {
+          "scene_number": 1,
+          "visual": "Split screen: Institutional logos vs. retail investors.",
+          "on_screen_text": "ETF Market Shock",
+          "voiceover": "Why Bitcoin ETFs are changing the game for every investor."
+        },
+        {
+          "scene_number": 2,
+          "visual": "Chart showing institutional money flowing into BTC.",
+          "on_screen_text": "Massive Inflow",
+          "voiceover": "Institutional capital is creating a massive new floor for price."
+        },
+        {
+          "scene_number": 3,
+          "visual": "Subscribe button graphic with 'Join the Club'.",
+          "on_screen_text": "Stay Ahead!",
+          "voiceover": "Subscribe to stay ahead of these huge market shifts."
+        }
+      ],
+      "based_on_pattern": "loss_lessons"
+    }
+  ]
+}
